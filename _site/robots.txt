@@ -1,1 +1,1 @@
-Sitemap: https://daylemg.github.io//https://dayleMG.github.io/blog/sitemap.xml
+Sitemap: https://daylemg.github.io//sitemap.xml

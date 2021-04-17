@@ -21,8 +21,8 @@ title_separator          : "&#124;"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "김민규"
 description              : "그날 배운 지식들을 정리하는 블로그"
-url                      : "https://dayleMG.github.io/"
-baseurl                  : "https://dayleMG.github.io/blog"
+url                      : "https://daylemg.github.io/"
+baseurl                  :
 repository               : "dayleMG/daylemg.github.com"
 teaser                   : "/assets/images/500x300.png"
 logo                     :
